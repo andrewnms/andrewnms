@@ -7,6 +7,7 @@ AI Developer and Enthusiast
 ---------------------------
 
 I'm simply a developer and hobbyist. I can do stuff with my computer and I do simple stuff on it as well. 
+
 <p>(I restarted my Github account, lmao)</p>
 
 <a href="https://www.github.com/takt-jin" target="_blank" rel="noreferrer"><img
