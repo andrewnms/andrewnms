@@ -8,7 +8,6 @@ I'm simply a developer and hobbyist. I can do stuff with my computer and I do si
 if you need me, you can contact me through these weird tags
 
 [My Instagram](https://www.instagram.com/minnablemins/)
-
 [Study Server lol](https://discord.gg/Dnmn3PEzhQ)
 
 
