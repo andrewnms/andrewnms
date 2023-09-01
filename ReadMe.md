@@ -1,12 +1,1 @@
-haio, Jin here.
-
-I'm just a guy who loves to work on stuff. If you want to contact me, find me or better yet, go to me. I'll make sure to talk to you if you talk to me properly.
-
-<3
-
-btw jin's first repo lol
-
-<!---
-takt-jin/takt-jin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![200](https://github.com/takt-jin/takt-jin/assets/119732698/050a09b8-c12e-4a1e-8a26-69b044c5217c)
