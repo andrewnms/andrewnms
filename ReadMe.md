@@ -2,7 +2,7 @@
 
 #### A Full-Time Student by day ☼ and a Hobbyist by night ☾
 
-Information and Data Engineer Intern at [OpenAI](https://openai.com/ref?=drutoot);<br>
+Information and Data Engineer Intern at [OpenAI](https://openai.com);<br>
 
 <!--
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
