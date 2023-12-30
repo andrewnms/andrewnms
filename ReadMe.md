@@ -3,7 +3,8 @@
 #### A Full-Time Student by day ☼ and a Hobbyist by night ☾
 
 Information and Data Engineer Intern at [OpenAI](https://openai.com);<br>
-
+C and C++ enthusiast;<br>
+Reach me at the links under my profile;<br>
 <!--
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel Community**
