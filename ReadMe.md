@@ -1,14 +1,11 @@
 ![e95bb6f8d0c524c166d3a42c3a09c18f](https://github.com/takt-jin/takt-jin/assets/119732698/db2141b9-fd35-41a2-a866-055f4f70f993)
 
-HIYA!
 ============================================================================================================================
 
 AI Developer and Enthusiast
 ---------------------------
 
-I'm simply a developer and hobbyist. I can do stuff with my computer and I do simple stuff on it as well. 
-
-<p>(I restarted my Github account, lmao)</p>
+Hi, I'm Andrew. I'm a Software Developer in the Philippines
 
 <a href="https://www.github.com/takt-jin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/takt-jin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
