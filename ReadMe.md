@@ -2,7 +2,6 @@
 
 #### A Full-Time Student by day ☼ and a Hobbyist by night ☾
 
-Intern at [OpenAI](https://openai.com);<br>
 C and C++ enthusiast;<br>
 Reach me at the links under my profile;<br>
 <!--
