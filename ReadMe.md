@@ -1,9 +1,8 @@
 ### Hello there 👋
 
-#### A Full-Time Student by day ☼ and a Hobbyist by night ☾
+#### A Master Builder by day ☼ and a Cool Hobbyist at night ☾
 
-C and C++ enthusiast;<br>
-Reach me at the links under my profile;<br>
+Reach me at the links under my profile!;<br>
 <!--
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel Community**
