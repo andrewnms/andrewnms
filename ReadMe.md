@@ -1,14 +1,13 @@
-### Hello there 👋
+### Hey, I'm Dru 👋
 
 #### A Master Builder by day ☼ and a Cool Hobbyist at night ☾
 
+- 🧠 Currently building: [Team Brain](https://team-brain.com)
+- 🎨 What I usually do: UI/UX, product development, janky advertisements
+- 🥊 Off the clock: martial arts, cold plunges, soulsborne games
+- 🎮 League of Legends mid main: Kassadin & Azir, grinding for high elo
+- 🐕 Foster dad to a bunch of bad kids: Spork, Egg, Rocky
+- 📍 Based in Manila, Philippines
+
+
 Reach me at the links under my profile!;<br>
-<!--
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
--->
